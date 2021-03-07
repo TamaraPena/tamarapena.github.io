@@ -13,4 +13,5 @@ El Zentangle es un método de dibujo creado por María Thomas, una calígrafa, y
 - Rotulador negro de punta finaç
 - Rotuladores de colores
 - Acuarelas
-![## Paso a Paso] (<iframe width="727" height="409" src="https://www.youtube.com/embed/12yvV-DEk34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+[Paso a Paso](https://youtu.be/12yvV-DEk34)
