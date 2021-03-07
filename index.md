@@ -5,4 +5,11 @@ El Zentangle es un método de dibujo creado por María Thomas, una calígrafa, y
 - Favorece la creatividad, la diversión, la autoconfianza y la concentración mental
 - Permite liberar el estrés, solucionar conflictos internos y externos, trabajar trastornos de atención y reflexionar. 
 - Está dirigido tanto a niños y adolescentes como a adultos. 
-
+## Materiales básicos:
+- Hoja en blanco
+- Compás
+- Lápiz
+- Goma
+- Rotulador negro de punta finaç
+- Rotuladores de colores
+- Acuarelas
