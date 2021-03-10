@@ -23,3 +23,5 @@ El Zentangle es un método de dibujo creado por María Thomas, una calígrafa, y
 
 ![patrones](patrones.jpg)
 > Basta ser tú mismo y ser disciplinado para que los sueños comiencen a hacerse realidad - Dani Hoyos
+
+` <script src="scripts/main.js"></script `
